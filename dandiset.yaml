@@ -21,6 +21,7 @@ contributor:
   - dandi:ContactPerson
   schemaKey: Person
 - affiliation: []
+  identifier: 0000-0001-5742-2990
   includeInCitation: true
   name: Kriegstein, Arnold
   roleName:
@@ -37,6 +38,7 @@ name: Kriegstein2020
 protocol: []
 relatedResource: []
 repository: https://dandiarchive.org/
+schemaKey: Dandiset
 schemaVersion: 0.3.0
 studyTarget: []
 url: https://dandiarchive.org/000012/draft
