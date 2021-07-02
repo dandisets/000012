@@ -8,12 +8,16 @@ access:
     schemaKey: ContactPoint
   status: dandi:OpenAccess
 assetsSummary:
-  approach: []
+  approach:
+  - name: electrophysiological approach
+    schemaKey: ApproachType
   dataStandard:
   - identifier: RRID:SCR_015242
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
-  measurementTechnique: []
+  measurementTechnique:
+  - name: voltage clamp technique
+    schemaKey: MeasurementTechniqueType
   numberOfBytes: 487524911
   numberOfCells: 38
   numberOfFiles: 297
@@ -24,7 +28,9 @@ assetsSummary:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9606
     name: Human
     schemaKey: SpeciesType
-  variableMeasured: []
+  variableMeasured:
+  - VoltageClampStimulusSeries
+  - VoltageClampSeries
 citation: Zhou, Li; Kriegstein, Arnold (2021) Kriegstein2020 (Version draft) [Data
   set]. DANDI archive. https://dandiarchive.org/dandiset/000012/draft
 contributor:
