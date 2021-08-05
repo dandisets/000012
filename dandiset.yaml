@@ -58,7 +58,8 @@ id: DANDI:000012/draft
 identifier: DANDI:000012
 keywords: []
 license: []
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000012/versions/draft/assets/
 name: Kriegstein2020
 protocol: []
 relatedResource: []
