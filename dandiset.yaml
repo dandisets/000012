@@ -32,7 +32,7 @@ assetsSummary:
   variableMeasured:
   - VoltageClampStimulusSeries
   - VoltageClampSeries
-citation: Zhou, Li; Kriegstein, Arnold (2021) Kriegstein2020 (Version draft) [Data
+citation: Zhou, Li; Kriegstein, Arnold (2022) Kriegstein2020 (Version draft) [Data
   set]. DANDI archive. https://dandiarchive.org/dandiset/000012/draft
 contributor:
 - affiliation:
@@ -59,7 +59,8 @@ ethicsApproval: []
 id: DANDI:000012/draft
 identifier: DANDI:000012
 keywords: []
-license: []
+license:
+- spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000012/versions/draft/assets/
 name: Kriegstein2020
