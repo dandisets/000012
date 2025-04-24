@@ -33,12 +33,11 @@ assetsSummary:
   variableMeasured:
   - VoltageClampStimulusSeries
   - VoltageClampSeries
-citation: Zhou, Li; Kriegstein, Arnold (2022) Kriegstein2020 (Version draft) [Data
-  set]. DANDI archive. https://dandiarchive.org/dandiset/000012/draft
+citation: Zhou, Li; Kriegstein, Arnold (2025) Kriegstein2020 (Version draft) [Data
+  set]. DANDI Archive. https://dandiarchive.org/dandiset/000012/draft
 contributor:
 - affiliation:
-  - includeInCitation: false
-    name: Eli and Edythe Broad Center of Regeneration Medicine and Stem Cell Research
+  - name: Eli and Edythe Broad Center of Regeneration Medicine and Stem Cell Research
       UCSF School of Medicine
     schemaKey: Affiliation
   includeInCitation: true
@@ -67,7 +66,7 @@ manifestLocation:
 name: Kriegstein2020
 protocol: []
 relatedResource: []
-repository: https://dandiarchive.org/
+repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 studyTarget: []
